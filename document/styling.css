@@ -1,0 +1,147 @@
+@media screen and(max-width:900px) {
+    .container{ 
+        margin-left:10px;
+        height: 460px;
+        width: 20px;
+        margin-top:30px;
+        padding: 0px;
+        background-color: #f65959;}
+body{
+    background-color: blue;
+}    
+
+    }
+* {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #535457;
+}
+.icon-5 a,.icon-6 a,.icon-7 a,.icon-8 a,.icon-9 a{
+    font-size: 50px;
+}
+.icon-5{
+    margin-left:13px ;
+    margin-top: 22px;
+   
+}
+.icon-6{
+    margin-left:13px ;
+    margin-top: 240px;
+   
+}
+.icon-7{
+    margin-left:13px ;
+    margin-top: 20px;
+   
+}
+.icon-8{
+    margin-left:13px ;
+    margin-top: 20px;
+    
+}
+.icon-9{
+    margin-left:13px ;
+    margin-top: 20px;
+
+}
+.container { 
+    margin: -45% auto;
+    height: 558px;
+    width: 85%;
+    padding: 30px;
+    background-color: #211818;}
+
+    .section-right{
+        margin-left: 42%;
+    margin-top: -40px;
+border-bottom:2px solid  rgb(48, 200, 48) ;  
+}
+    .details{
+        word-spacing: 30px;
+    color: rgb(48, 200, 48);
+    }
+    .services,.pera, .About-Me,.development-1,.development-2,.data-1,.data-2{
+        color: aliceblue;
+
+    }
+    
+    .pera,.development-1,.development-2,.data-1,.data-2{
+ font-size:14px;
+
+ text-transform: capitalize;
+    }
+    .icon-1{
+        color: rgb(48, 200, 48);
+        font-size: 35px;
+    }
+
+    .section-left img:hover{
+        zoom:120%;
+       width:40%;
+         border-radius:40% ;
+    }
+.section-left img{
+    width: 35%;
+    margin-left: -20px;
+    height: 600px;
+    margin-top: -15px;
+    position: absolute
+    
+}
+.image-text {
+    position: absolute;
+    text-align: center;
+    text-shadow: -3px -2px white;
+    width: 35%;
+    
+    margin-top: 30%;
+}
+.ali{
+    font-size: 50px;
+    font-family: monospace;
+}
+.web{
+    font-size: 20px;
+    font-family: fantasy;
+
+}
+.all-data{
+    margin-top:-35px ;
+}
+
+.services,.About-Me{
+ text-decoration:underline  ;
+
+}
+.development-1,.development-2,.services{
+    margin-left: 42%;   
+
+}
+.services{
+    Margin-top: 56px;
+    margin-bottom: -55px;
+
+}
+.development-1{
+    margin-bottom: 6%;
+    margin-top: 82px;
+}
+.development-2{
+    margin-top: 10px;
+}
+.data-1,.data-2{
+     margin-left: 72%;
+    margin-bottom: 8%;
+    
+}
+.data-1{
+    margin-top: -28%;
+    margin-bottom: 54px;
+}
+.data-2{
+
+}
